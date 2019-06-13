@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jimmy个人小站</title>
-    <link>https://augest8.github.io/categories/</link>
+    <link>augest8.github.ig/categories/</link>
     <description>Recent content in Categories on Jimmy个人小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="https://augest8.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="augest8.github.ig/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
