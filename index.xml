@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Jimmy����Сվ</title>
     <link>https://augest8.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Jimmy����Сվ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 03:57:34 +0800</lastBuildDate>
+    <language>zh-CN</language>
     
 	<atom:link href="https://augest8.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>测试</title>
-      <link>https://augest8.github.io/post/blog/</link>
-      <pubDate>Thu, 13 Jun 2019 03:57:34 +0800</pubDate>
-      
-      <guid>https://augest8.github.io/post/blog/</guid>
-      <description>尴尬 不知道哪里出错了
-#标题 删除线</description>
-    </item>
     
   </channel>
 </rss>
